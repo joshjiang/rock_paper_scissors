@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=rock_paper_scissors
+POSTGRES_USER=szrOYsWWvhtRiKKBydIYXQoATBOAVBxJ
+POSTGRES_PASSWORD=4cpDuFTX17K425q2zbO40GpKL8ePvjjKWPIbhA6KtyuR9T5AMRv2Chy3tbWh0hUH
